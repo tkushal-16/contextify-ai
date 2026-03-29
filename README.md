@@ -41,7 +41,7 @@ ContextifyAI is a production-ready Retrieval-Augmented Generation (RAG) applicat
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/contextify-ai.git
+git clone https://github.com/tkushal-16/contextify-ai.git
 cd contextify-ai
 ```
 
